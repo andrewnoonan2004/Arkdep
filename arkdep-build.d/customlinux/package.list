@@ -62,13 +62,9 @@ arkane-application-cleaner
 arkane-flatpak-init
 arkane-wallpapers
 libnss-extrausers
-arkdep
-# Personal additions
-gnome-tweaks
+# Custom additions
 inter-font
 papirus-icon-theme
 ttf-jetbrains-mono-nerd
-starship
-linux-zen-headers
-shadow
-
+chromium
+gnome-tweaks
