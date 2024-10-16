@@ -1,0 +1,9 @@
+amd-ucode
+intel-ucode
+dbus-broker-units
+base
+base-devel
+linux-zen
+mkinitcpio
+dracut
+linux-firmware
